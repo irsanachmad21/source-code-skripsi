@@ -1,0 +1,15 @@
+Preprocessing Data.ipynb
+> Kode program untuk Preprocessing (Cleaning, Case Folding, dan lain sebagainya)
+Tutorial : https://youtu.be/YppGHewKooE?si=JzE1vZ4i9foS5cD4
+
+Algoritma Naive Bayes.ipynb
+> Kode program untuk Labeling, Splitting dan Penerapan Algoritma Naive Bayes
+Tutorial : https://youtu.be/ApdSp3vxYQY?si=giN4wwHELGCk5Xbo
+
+Positive.tsv & Negative.tsv
+> Digunakan pada saat Labeling (Preprocessing.ipynb)
+
+Pada saat Preprocessing anda diminta untuk memasukkan kaggle.json pada bagian kode "Normalisasi Kata", cara untuk memasukkan kaggle.json :
+1. buat akun kaggle di kaggle.com
+2. setelah akun terbuat masuk ke setting dan buat API (Create New Token)
+3. download kaggle.json dan masukkan ke kode program "Normalisasi Kata"
