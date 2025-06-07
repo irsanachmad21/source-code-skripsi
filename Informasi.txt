@@ -3,7 +3,7 @@ Preprocessing Data.ipynb
 Tutorial : https://youtu.be/YppGHewKooE?si=JzE1vZ4i9foS5cD4
 
 Algoritma Naive Bayes.ipynb
-> Kode program untuk Labeling, Splitting dan Penerapan Algoritma Naive Bayes
+> Kode program untuk Labeling, Splitting dan Penerapan Algoritma Naive Bayes (Gunakan Classification dan Multinomial untuk hasil yang lebih baik)
 Tutorial : https://youtu.be/ApdSp3vxYQY?si=giN4wwHELGCk5Xbo
 
 Positive.tsv & Negative.tsv
